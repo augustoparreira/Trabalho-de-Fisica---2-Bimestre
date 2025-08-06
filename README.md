@@ -12,11 +12,7 @@ Este projeto Java com interface gráfica em Swing resolve o problema do exercíc
 
 ## 🖼️ Preview da interface
 
-O programa exibe a imagem do circuito e solicita:
-- Diferença de potencial (em Volts)
-- Capacitância dos capacitores (em µF)
-
-Ao clicar em **"Calcular"**, exibe a carga elétrica de cada capacitor em notação científica.
+<img width="812" height="973" alt="image" src="https://github.com/user-attachments/assets/738c2889-a64b-465d-ba80-520a3579806b" />
 
 ---
 
@@ -29,5 +25,3 @@ Ao clicar em **"Calcular"**, exibe a carga elétrica de cada capacitor em notaç
 - ✅ Imagem do circuito visível na interface
 - ✅ Validação de entradas com mensagens de erro
 - ✅ Botão para resetar todos os campos e limpar resultados
-
-
